@@ -1,4 +1,1 @@
-{
-  "schema_version": 1,
-  "events": []
-}
+{"schema_version":1,"events":[{"timestamp":"2026-11-18T15:34:29Z","type":"service_status_changed","status":"online","services":{"control_reactivos":"OFFLINE"},"changed_services":["control_reactivos"]}]}
