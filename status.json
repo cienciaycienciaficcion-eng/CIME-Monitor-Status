@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "monitor": "CIME-SERVER-01",
+  "site": "CIME-3D",
+  "status": "unknown",
+  "last_seen": null,
+  "last_event": null,
+  "services": {},
+  "incident": {
+    "open": false,
+    "started_at": null,
+    "age_seconds": 0
+  },
+  "updated_at": "2026-11-18T14:33:54.693Z"
+}
